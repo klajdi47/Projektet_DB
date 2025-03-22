@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\PC\\Documents\\GitHub\\Projektet_DB\\C#\\Sistemi_Notave\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4BB996-7659-46D7-AD3B-CB24F6B0E658}|Sistemi_Notave\\Sistemi_Notave.csproj|c:\\users\\user\\pc\\documents\\github\\projektet_db\\c#\\sistemi_notave\\sistemi_notave\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4BB996-7659-46D7-AD3B-CB24F6B0E658}|Sistemi_Notave\\Sistemi_Notave.csproj|solutionrelative:sistemi_notave\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\PC\\Documents\\GitHub\\Projektet_DB\\C#\\Sistemi_Notave\\Sistemi_Notave\\Program.cs",
+              "RelativeDocumentMoniker": "Sistemi_Notave\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\PC\\Documents\\GitHub\\Projektet_DB\\C#\\Sistemi_Notave\\Sistemi_Notave\\Program.cs*",
+              "RelativeToolTip": "Sistemi_Notave\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:41:52.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

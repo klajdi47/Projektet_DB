@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Analiza_Notave_VEKTOR_FUNKSION/1.0.0": {
+        "runtime": {
+          "Analiza_Notave_VEKTOR_FUNKSION.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Analiza_Notave_VEKTOR_FUNKSION/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Analiza_Notave_VEKTOR_FUNKSION\Analiza_Notave_VEKTOR_FUNKSION\bin\Debug\net8.0\Analiza_Notave_VEKTOR_FUNKSION.exe
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Analiza_Notave_VEKTOR_FUNKSION\Analiza_Notave_VEKTOR_FUNKSION\bin\Debug\net8.0\Analiza_Notave_VEKTOR_FUNKSION.deps.json
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Analiza_Notave_VEKTOR_FUNKSION\Analiza_Notave_VEKTOR_FUNKSION\bin\Debug\net8.0\Analiza_Notave_VEKTOR_FUNKSION.runtimeconfig.json
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Analiza_Notave_VEKTOR_FUNKSION\Analiza_Notave_VEKTOR_FUNKSION\bin\Debug\net8.0\Analiza_Notave_VEKTOR_FUNKSION.dll
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Analiza_Notave_VEKTOR_FUNKSION\Analiza_Notave_VEKTOR_FUNKSION\bin\Debug\net8.0\Analiza_Notave_VEKTOR_FUNKSION.pdb
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Analiza_Notave_VEKTOR_FUNKSION\Analiza_Notave_VEKTOR_FUNKSION\obj\Debug\net8.0\Analiza_Notave_VEKTOR_FUNKSION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Analiza_Notave_VEKTOR_FUNKSION\Analiza_Notave_VEKTOR_FUNKSION\obj\Debug\net8.0\Analiza_Notave_VEKTOR_FUNKSION.AssemblyInfoInputs.cache
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Analiza_Notave_VEKTOR_FUNKSION\Analiza_Notave_VEKTOR_FUNKSION\obj\Debug\net8.0\Analiza_Notave_VEKTOR_FUNKSION.AssemblyInfo.cs
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Analiza_Notave_VEKTOR_FUNKSION\Analiza_Notave_VEKTOR_FUNKSION\obj\Debug\net8.0\Analiza_Notave_VEKTOR_FUNKSION.csproj.CoreCompileInputs.cache
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Analiza_Notave_VEKTOR_FUNKSION\Analiza_Notave_VEKTOR_FUNKSION\obj\Debug\net8.0\Analiza_Notave_VEKTOR_FUNKSION.dll
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Analiza_Notave_VEKTOR_FUNKSION\Analiza_Notave_VEKTOR_FUNKSION\obj\Debug\net8.0\refint\Analiza_Notave_VEKTOR_FUNKSION.dll
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Analiza_Notave_VEKTOR_FUNKSION\Analiza_Notave_VEKTOR_FUNKSION\obj\Debug\net8.0\Analiza_Notave_VEKTOR_FUNKSION.pdb
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Analiza_Notave_VEKTOR_FUNKSION\Analiza_Notave_VEKTOR_FUNKSION\obj\Debug\net8.0\Analiza_Notave_VEKTOR_FUNKSION.genruntimeconfig.cache
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Analiza_Notave_VEKTOR_FUNKSION\Analiza_Notave_VEKTOR_FUNKSION\obj\Debug\net8.0\ref\Analiza_Notave_VEKTOR_FUNKSION.dll

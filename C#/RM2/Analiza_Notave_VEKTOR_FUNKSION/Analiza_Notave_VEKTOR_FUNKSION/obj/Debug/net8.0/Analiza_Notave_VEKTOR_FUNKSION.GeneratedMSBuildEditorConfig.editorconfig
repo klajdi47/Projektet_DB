@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Analiza_Notave_VEKTOR_FUNKSION
+build_property.ProjectDir = C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Analiza_Notave_VEKTOR_FUNKSION\Analiza_Notave_VEKTOR_FUNKSION\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,14 @@
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Sistemi_Notave\Sistemi_Notave\bin\Debug\net8.0\Sistemi_Notave.exe
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Sistemi_Notave\Sistemi_Notave\bin\Debug\net8.0\Sistemi_Notave.deps.json
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Sistemi_Notave\Sistemi_Notave\bin\Debug\net8.0\Sistemi_Notave.runtimeconfig.json
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Sistemi_Notave\Sistemi_Notave\bin\Debug\net8.0\Sistemi_Notave.dll
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Sistemi_Notave\Sistemi_Notave\bin\Debug\net8.0\Sistemi_Notave.pdb
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Sistemi_Notave\Sistemi_Notave\obj\Debug\net8.0\Sistemi_Notave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Sistemi_Notave\Sistemi_Notave\obj\Debug\net8.0\Sistemi_Notave.AssemblyInfoInputs.cache
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Sistemi_Notave\Sistemi_Notave\obj\Debug\net8.0\Sistemi_Notave.AssemblyInfo.cs
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Sistemi_Notave\Sistemi_Notave\obj\Debug\net8.0\Sistemi_Notave.csproj.CoreCompileInputs.cache
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Sistemi_Notave\Sistemi_Notave\obj\Debug\net8.0\Sistemi_Notave.dll
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Sistemi_Notave\Sistemi_Notave\obj\Debug\net8.0\refint\Sistemi_Notave.dll
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Sistemi_Notave\Sistemi_Notave\obj\Debug\net8.0\Sistemi_Notave.pdb
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Sistemi_Notave\Sistemi_Notave\obj\Debug\net8.0\Sistemi_Notave.genruntimeconfig.cache
+C:\Users\User\PC\Documents\GitHub\Projektet_DB\C#\Sistemi_Notave\Sistemi_Notave\obj\Debug\net8.0\ref\Sistemi_Notave.dll

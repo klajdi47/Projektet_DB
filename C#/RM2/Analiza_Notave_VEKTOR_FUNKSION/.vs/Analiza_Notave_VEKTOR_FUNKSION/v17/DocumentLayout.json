@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\PC\\Documents\\GitHub\\Projektet_DB\\C#\\Analiza_Notave_VEKTOR_FUNKSION\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57A4BA16-277E-4E33-80CD-503F4D2055F8}|Analiza_Notave_VEKTOR_FUNKSION\\Analiza_Notave_VEKTOR_FUNKSION.csproj|c:\\users\\user\\pc\\documents\\github\\projektet_db\\c#\\analiza_notave_vektor_funksion\\analiza_notave_vektor_funksion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A4BA16-277E-4E33-80CD-503F4D2055F8}|Analiza_Notave_VEKTOR_FUNKSION\\Analiza_Notave_VEKTOR_FUNKSION.csproj|solutionrelative:analiza_notave_vektor_funksion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\PC\\Documents\\GitHub\\Projektet_DB\\C#\\Analiza_Notave_VEKTOR_FUNKSION\\Analiza_Notave_VEKTOR_FUNKSION\\Program.cs",
+              "RelativeDocumentMoniker": "Analiza_Notave_VEKTOR_FUNKSION\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\PC\\Documents\\GitHub\\Projektet_DB\\C#\\Analiza_Notave_VEKTOR_FUNKSION\\Analiza_Notave_VEKTOR_FUNKSION\\Program.cs*",
+              "RelativeToolTip": "Analiza_Notave_VEKTOR_FUNKSION\\Program.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:49:51.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

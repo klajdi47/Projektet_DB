@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sistemi_Notave/1.0.0": {
+        "runtime": {
+          "Sistemi_Notave.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistemi_Notave/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
